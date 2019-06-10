@@ -1,0 +1,20 @@
+{
+  "name": "hlap_4487",
+  "version": "0.1.0",
+  "description": "This web_extension application was built with Crowdbotics www.crowdbotics.com",
+  "license": "UNLICENSED",
+  "private": true,
+  "author": {
+    "name": "tuss4307",
+    "email": "tuss4307@icloud.com"
+  },
+  "contributors": [
+  ],
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "generate-json-webpack-plugin": "^0.2.2",
+    "web-ext": "^2.2.2",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {}
+}
